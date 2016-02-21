@@ -3,5 +3,5 @@ production:
 
 #this is the address of this heroku app once you’ve deployed it, plus the `/faye` extension.
 
-secret_token: "45fcef8184dc45b8ca5e26f9f643fda86bdd2fb83c573db315d5b60321b716a5"
+secret_token: "secret"
 signature_expiration: 3600 # one day
